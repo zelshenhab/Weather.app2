@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="error">City not found</string>
+    <string name="city">City</string>
+    <string name="search">Search</string>
+    <string name="label_temp">Temperature:</string>
+    <string name="label_humidity">Humidity:</string>
+    <string name="label_wind_direction">Wind\'s direction:</string>
+
+</resources>
